@@ -7,7 +7,7 @@ export default function HeroSection() {
       <div className=" h-2/3 w-full flex flex-col md:flex-row justify-around items-center px-4">
         {/* Intro div */}
         <div className="flex flex-col items-center text-center md:text-left md:items-start mb-4 md:mb-0">
-          <h2 className="text-lg md:text-xl lg:text-2xl">Hello, It's me</h2>
+          <h2 className="text-lg md:text-xl lg:text-2xl">Hello, It is me</h2>
           <h1 className="text-2xl md:text-4xl lg:text-5xl text-primary font-bold">
             Ayesha Shahzaib
           </h1>
