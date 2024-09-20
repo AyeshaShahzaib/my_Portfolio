@@ -7,7 +7,7 @@ export default function About(){
           About Me
         </h2>
         <p className="text-md md:text-lg lg:text-xl text-gray-300 mb-10 max-w-2xl">
-        Hi! I'm Ayesha Shahzaib, a dedicated frontend developer with a strong focus on crafting intuitive and engaging user interfaces. My journey in web development has equipped me with a versatile skill set, allowing me to turn complex ideas into seamless digital experiences. I thrive on solving problems through code and am passionate about bringing creative visions to life in the digital world.
+        Hi! I am Ayesha Shahzaib, a dedicated frontend developer with a strong focus on crafting intuitive and engaging user interfaces. My journey in web development has equipped me with a versatile skill set, allowing me to turn complex ideas into seamless digital experiences. I thrive on solving problems through code and am passionate about bringing creative visions to life in the digital world.
         </p>
         <div className="mb-16"></div>
         <Skills />

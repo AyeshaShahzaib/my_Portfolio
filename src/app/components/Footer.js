@@ -27,7 +27,7 @@ export default function Footer(){
                 </a>
                
                 <a
-                  href="mailto:your-email@example.com"
+                  href="mailto:ayeshashahzaib007@gmail.com"
                   className="text-gray-400 hover:text-white"
                 >
                   <i className="fas fa-envelope fa-2x"></i> 
