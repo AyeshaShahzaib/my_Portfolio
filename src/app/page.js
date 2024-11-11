@@ -5,7 +5,7 @@ import ContactSection from "./components/Contact_me";
 return(
     <>
     <Hero_Section/>
-    <About/>
+    
     </>
 )  
  }
