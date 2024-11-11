@@ -6,7 +6,6 @@ return(
     <>
     <Hero_Section/>
     <About/>
-    <ContactSection/>
     </>
 )  
  }
